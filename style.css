@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+#myButton {
+    font-size: 4em;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+
+#myButton:hover {
+    background-color: #4CAF50;
+    color: white;
+}
+
+#myButton:active {
+    background-color: #45a049;
+    color: white;
+}
+
+#myLabel {
+    font-size: 5em;
+}
